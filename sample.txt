@@ -1,3 +1,4 @@
 サルでもわかるGitコマンド
 clone完了｡これからcommitします｡
 tutorial2 コンフリクト！
+競合の練習
