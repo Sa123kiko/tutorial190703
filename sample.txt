@@ -1,2 +1,3 @@
 サルでもわかるGitコマンド
 clone完了｡これからcommitします｡
+tutorial2 コンフリクト！
